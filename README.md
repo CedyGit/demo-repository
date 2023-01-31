@@ -1,4 +1,4 @@
 # Demo 
 
 This is my first test on Github 
-just trying how to update something here!!
+my name is Cedric and I'm beginner here
