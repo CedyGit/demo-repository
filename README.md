@@ -1,4 +1,4 @@
 # Demo 
 
-This is my first test on Github 
-my name is Cedric and I'm beginner here
+This is my first test on GitHub
+And I'm trying to pull something.
